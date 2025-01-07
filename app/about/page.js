@@ -7,7 +7,7 @@ export default function About() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         <div className="flex justify-center items-center">
           <Image
-            src="/photo.jpg"
+            src="/photo.jpeg"
             alt="My Avatar"
             width={192} 
             height={192}
